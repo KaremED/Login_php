@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
 <form action="chk.php" method="POST">
 
     <input type="text" name="username">
@@ -8,3 +11,5 @@
     <?php echo "<br>passwor hint 123"; ?>
 
 </form>
+</body>
+</html>
