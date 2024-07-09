@@ -1,0 +1,10 @@
+<form action="chk.php" method="POST">
+
+    <input type="text" name="username">
+    <br>
+    <input type="password" name="password">
+    <input type="submit" name="Login">
+
+    <?php echo "<br>passwor hint 123"; ?>
+
+</form>
