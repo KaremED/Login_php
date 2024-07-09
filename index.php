@@ -1,12 +1,3 @@
-<?php
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <title>Simple Login</title>
-    </head>
-<body>
-
 <form action="chk.php" method="POST">
 
     <input type="text" name="username">
@@ -17,8 +8,3 @@
     <?php echo "<br>passwor hint 123"; ?>
 
 </form>
-
-</body>
-
-</html>
-?>
